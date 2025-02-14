@@ -1,11 +1,27 @@
 ---
-title: "Archer.Goodman.github.io"
+title: "Archer Goodman"
+image: imgs/Headshot.png
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 17em
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/archer-goodman/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/Archer-Goodman
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:archer.goodman144@gmail.com
+      target: _blank
 ---
 
-This is a Quarto website.
+Hello! My name is Archer Goodman and I'm currently in my third year working towards my Bachelor's of Science in Ecosystem Science and Sustainability with a minor in Geographic Information Science.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My interest in the natural world stems from a twelve year career in Boy Scouts. Only 4% of scouts achieve the highest rank of Eagle, and I'm proud to count myself among them. My skills in first aid, camping, ATV operation and more make me invaluable on any field team.
 
-```{r}
-1 + 1
-```
+I'm currently working on developing my skills on the data science side of things. I'm confident in my skills in Python, HTML, and ARCGis, and my skills in R are growing rapidly. I hope to combine these with my practical skills to help solve important problems in our changing world.

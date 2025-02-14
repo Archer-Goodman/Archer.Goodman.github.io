@@ -3,18 +3,32 @@ project:
   output-dir: docs
   
 website:
-  title: "Archer.Goodman.github.io"
+  title: "Archer Goodman"
+  favicon: imgs/FavoriteIcon.png
   navbar:
-    left:
+    left: 
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About Me
+      - Projects.qmd
+      - Resume.qmd
+    right: 
+      - icon: github
+        href: https://www.linkedin.com/in/archer-goodman/
+      - icon: linkedin
+        href: https://github.com/Archer-Goodman
+      - icon: envelope
+        href: mailto:archer.goodman144@gmail.com
+  page-footer: 
+    background: light
+    left: Am I allowed to claim copyright on this page? Isn't there legal documentation needed for that?
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/Archer-Goodman/Archer-Goodman.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: palette.scss
     toc: true
+    page-layout: full
 
 editor: visual
 

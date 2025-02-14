@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Archer.Goodman.github.io",
+    "title": "Archer Goodman",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Archer Goodman and I’m currently in my third year working towards my Bachelor’s of Science in Ecosystem Science and Sustainability with a minor in Geographic Information Science.\nMy interest in the natural world stems from a twelve year career in Boy Scouts. Only 4% of scouts achieve the highest rank of Eagle, and I’m proud to count myself among them. My skills in first aid, camping, ATV operation and more make me invaluable on any field team.\nI’m currently working on developing my skills on the data science side of things. I’m confident in my skills in Python, HTML, and ARCGis, and my skills in R are growing rapidly. I hope to combine these with my practical skills to help solve important problems in our changing world."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the spring of 2025, I took a quantitative reasoning class which had me do some code in R and other cool data science.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "test"
   }
 ]

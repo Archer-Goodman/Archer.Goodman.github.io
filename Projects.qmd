@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+In the spring of 2025, I took a quantitative reasoning class which had me do some code in R and other cool data science.
+
+```{r}
+1 + 1
+```
